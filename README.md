@@ -33,7 +33,7 @@ Remixing, transformations, building upon this material or any other derivatives 
 
 You cannot distribute publicly the material derivated from the material found in this repository without consent from the first author in the authors list above (JPAC).
 
-This license applies presently, retroactively, prospectively and in any time direction possible (with time measurements done including but not limited to: absolute measuremment, relativistic measuremment, imaginary measuremment or infinite measuremment).
+This license applies presently, retroactively, prospectively and in any time direction possible (including but not limited to measurements being done subjectively, in absolute, relativisticly, in an imaginary way or using infinite time measuremments).
 
 This license cannot be deleted or modified by anyone except the repository first author.
 
