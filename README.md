@@ -4,7 +4,7 @@ This repo holds scientific papers that I have worked on.
 O papel? Mas qual papel?
 
 TODO: timeout, retroactive date beginning, jurisdiction, license applies until non-enforced further notice from the first author, arrow of time, latest commit
-Further licenses from the first author replace this all all lincenses from previous versions
+Further licenses from the first author replace this all all lincenses from previous versions;
 Good faith and good will
 
 # Authors
