@@ -9,7 +9,7 @@ Good faith and good will
 In case a dispute cannot be settled within a reasonable amount of time, the settlement of the case shall be done by arbitration from the first author (João Coelho) 
 
 # Authors
-João Pedro Alexandre Coelho, Portuguese Identification  Number: 13494673, Nickname: JPAC
+**João Pedro Alexandre Coelho**, Portuguese Identification  Number: 13494673, Nickname: JPAC
 
 # License
 
