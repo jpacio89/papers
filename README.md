@@ -17,7 +17,7 @@ This is the beginning of the license rules.
 
 This license inherits from license CC BY-NC-ND 4.0 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-For your information, the following text has regular expressions in it. To identify a regular expression, it will be wrapped by the following non space character "
+For your information, the following text has regular expressions in it. To identify a regular expression, it will be wrapped by the following non space character " (quote character)
 
 The ND part of the license is to be removed from this license.
 
