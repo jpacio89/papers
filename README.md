@@ -4,7 +4,7 @@ This repo holds scientific papers that I have worked on.
 O papel? Mas qual papel?
 
 # Authors
-João Pedro Alexandre Coelho
+João Pedro Alexandre Coelho (Portuguese Identification  Number: 13494673)
 
 # License
 
