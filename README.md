@@ -6,6 +6,7 @@ O papel? Mas qual papel?
 TODO: timeout, retroactive date beginning, jurisdiction, license applies until non-enforced further notice from the first author, arrow of time, latest commit
 Further licenses from the first author replace this all all lincenses from previous versions;
 Good faith and good will
+In case a dispute cannot be settled within a reasonable amount of time, the settlement of the case shall be done by arbitration from the first author (João Coelho) 
 
 # Authors
 João Pedro Alexandre Coelho (Portuguese Identification  Number: 13494673)
