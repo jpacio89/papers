@@ -6,7 +6,7 @@ O papel? Mas qual papel?
 # Authors
 João Pedro Alexandre Coelho (Portuguese Identification  Number: 13494673)
 
-TODO: timeout, retroactive date beginning, jurisdiction, license applies until non-enforced further notice, arrow of time
+TODO: timeout, retroactive date beginning, jurisdiction, license applies until non-enforced further notice, arrow of time, latest commit 
 
 # License
 
