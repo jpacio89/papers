@@ -13,4 +13,4 @@ João Pedro Alexandre Coelho
 The ND part of the license is replaced with: "If you remix, transform, or build upon the material, you must share the modified material with the authors as soon as possible. If you are coerced into not sharing the modified material with the authors, you must file a complaint in a way that the authors become aware by stating reason "A" in the complaint; you must also state reason "B" if it is not possible to share the modified material with the authors for unspecified reasons; you may also add any other statements to the complaint as long as ALL the complaint statements are TRUE.
 You cannot distribute the modified material publicly without consent from the first author in the authors list above (João Pedro Alexandre Coelho)."
 
-This license has retro-active effects and replaces the license in force for previous versions of the material in this repository. 
+This license has retro-active effects and replaces the licenses in force for all the previous versions of the material in this repository. 
