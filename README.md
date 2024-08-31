@@ -30,7 +30,7 @@ Remixing, transformations, building upon this material or any other derivatives 
 If you remix, transform, or build upon the material found in this repository, you must share the modified material with the authors as soon as possible. If you are coerced into not sharing the modified material with the authors, you must file a complaint in a way that all the authors become aware by stating "Reason A" in the complaint; you must also state "Reason "B" if it is not possible to share the modified material with the authors; you may also add any other statements to the complaint as long as ALL the complaint statements are TRUE.
 You cannot distribute the modified material publicly without consent from the first author in the authors list above (JPAC).
 
-This license has retroactive effects.
+This license also has retroactive effects.
 
 The  latest license replaces the licenses in force for all the previous versions of the material in this repository.
 This license is governed by the Laws of the Universe. In case it is not possible to enforce the license using the Laws of the Universe, the law of the country **República Portuguesa** and the law of the country **Kingdom of Sweden** can temporarily be used to settle disputes.
