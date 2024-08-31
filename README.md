@@ -31,6 +31,8 @@ If you remix, transform, or build upon the material found in this repository, yo
 
 Remixing, transformations, building upon this material or any other derivatives from this material is only allowed to happen after 1st of January of 2025.
 
+After January 1st of 2025, all private material that is remixed, transformed, built upon or in some way derived from the material found in this repository must be shared with the first author in the authors list above (2025). 
+
 You cannot distribute publicly the material derivated from the material found in this repository without consent from the first author in the authors list above (JPAC).
 
 This license applies presently, retroactively, prospectively and in any time direction possible (including but not limited to measurements being done subjectively, in absolute, relativistically, in an imaginary way or using infinite time measuremments).
