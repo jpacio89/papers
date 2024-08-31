@@ -32,7 +32,7 @@ If you remix, transform, or build upon the material found in this repository, yo
 Remixing, transformations, building upon this material or any other derivatives from this material is only allowed to happen after 1st of January of 2025.
 You cannot distribute publicly the material derivated from the material found in this repository without consent from the first author in the authors list above (JPAC).
 
-This license applies presently, retroactively, prospectively and in any time direction possible (including but not limited to: absolute time, relativistic time, imaginary time, infinite time).
+This license applies presently, retroactively, prospectively and in any time direction possible (with time measurements done including but not limited to: absolute measuremment, relativistic measuremment, imaginary measuremment or infinite measuremment).
 
 The  latest license replaces the licenses in force for all the previous versions of the material in this repository.
 This license is governed by the Laws of the Universe. In case it is not possible to enforce the license using the Laws of the Universe, the law of the country **República Portuguesa** and the law of the country **Kingdom of Sweden** can temporarily be used to settle disputes.
