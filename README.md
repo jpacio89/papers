@@ -8,7 +8,7 @@ Further licenses from the first author replace this all all lincenses from previ
 Good faith and good will
 In case a dispute cannot be settled within a reasonable amount of time, the settlement of the case shall be done by arbitration from the first author (João Coelho) 
 
-# Authors
+# Ownership
 **João Pedro Alexandre Coelho**, Portuguese Identification  Number: 13494673, Nickname: JPAC
 
 # License
