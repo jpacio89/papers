@@ -15,6 +15,8 @@ In case a dispute cannot be settled within a reasonable amount of time, the sett
 
 This is the beginning of the license rules.
 
+This license governs all the material found in this repository.
+
 This license inherits from license CC BY-NC-ND 4.0 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 In the following text, there will be additional rules. Any conflicting rules/statements with inherited license shall be discarded and the new rules shall be used.
