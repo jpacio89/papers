@@ -10,4 +10,4 @@ O papel? Mas qual papel?
 The ND part of the license is replaced with: "If you remix, transform, or build upon the material, you must share the modified material with the authors as soon as possible. If you are coerced into not sharing the modified material with the authors, you must file a complaint publicly in a way that the authors become aware.
 You cannot distribute the modified material publicly without consent from the first author João Coelho."
 
-This license has retro-active effects and replaces the license in force for previous versions. 
+This license has retro-active effects and replaces the license in force for previous versions of the material in this repository. 
