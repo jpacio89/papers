@@ -3,8 +3,7 @@ This repository holds scientific papers that I have worked on.
 
 O papel? Mas qual papel?
 
-TODO: timeout, retroactive date beginning, jurisdiction, license applies until non-enforced further notice from the first author, arrow of time, latest commit
-Further licenses from the first author replace this all all lincenses from previous versions;
+TODO: timeout, 
 
 # Author
 **João Pedro Alexandre Coelho**, Portuguese Identification  Number: 13494673, Nickname: JPAC
@@ -27,7 +26,7 @@ Remixing, transformations, building upon this material or any other derivatives 
 
 You, the reader and not writer of the material found in this repository, are not allowed to produce any form or variation of void, including but not limited to theoretical void or practical void, using the material found in this repository or its derivatives, including but not limited to: (void), (void composites), (negated (void composites)), (empty (void composites)), (partial (void composites)), (negated (partial (void composites))), (empty (partial (void composites))), (imaginary void) or any other void manifestation or void concept you can think of. Also, you, the reader and not writer of the material found in this repository, are not allowed to produce any form or variation of infinity, including but not limited to theoretical infinity or practical infinity, using the material found in this repository or its derivatives, including but not limited to: (infinity), (infinity composites), (negated (infinity composites)), (empty (infinity composites)), (partial (infinity composites)), (negated (partial (infinity composites))), (empty (partial (infinity composites))), (imaginary infinity) or any other infinity manifestation or infinity concept you can think of.
 
-If you remix, transform, or build upon the material found in this repository, you must share the modified material with the authors as soon as possible. If you are coerced into not sharing the modified material with the authors, you must file a complaint in a way that all the authors become aware by stating "Reason A" in the complaint; you must also state "Reason "B" if it is not possible to share the modified material with the authors; you may also add any other statements to the complaint as long as ALL the complaint statements are TRUE.
+If you remix, transform, or build upon the material found in this repository, you must share the modified material with the authors as soon as possible. If you are coerced into not sharing the modified material with the authors, you must file a complaint in a way that all the authors become aware by stating "Reason A" in the complaint; you must state "Reason "B" if it is not possible to share the modified material with the authors after you have unsuccessfully tried for 30 days; you may also add any other statements to the complaint as long as ALL the complaint statements are TRUE.
 
 Remixing, transformations, building upon this material or any other derivatives from this material is only allowed to happen after 1st of January of the year 2025 AD.
 
