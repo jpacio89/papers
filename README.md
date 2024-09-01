@@ -39,7 +39,7 @@ This license applies presently, retroactively, prospectively and in any time dir
 
 This license cannot be deleted or modified by anyone except the repository first author.
 
-The latest license supersedes all previous licenses for the material in this repository (including its previous versions).
+The latest license supersedes all previous licenses for the material in this repository (including its previous versions). To define latest, old, new and previous one must use the Universal Clock, which is absolute.
 
 This license, the repository and its contents are governed by the Laws of the Universe. If enforcement under these laws is not feasible, the laws of the República Portuguesa and the Kingdom of Sweden may be temporarily applied to resolve disputes. In the event of an unresolved dispute, the decision of the first author (JPAC) must be final.
 
