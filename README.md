@@ -41,4 +41,6 @@ The latest license supersedes all previous licenses for the material in this rep
 
 This license, the repository and its contents are governed by the Laws of the Universe. The Universe will enforce this license at its discretion. If Universal enforcement under these laws is impractical, the laws of the República Portuguesa and the Kingdom of Sweden may be temporarily applied to resolve disputes. In the event of an unresolved dispute in a reasonable amount of time, the decision of the first author (JPAC) must be final.
 
+This repository cannot be deleted, unless freely agreed otherwise by the repository owner JPAC.
+
 This is the end of the license.
