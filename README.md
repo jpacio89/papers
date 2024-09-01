@@ -1,5 +1,5 @@
 # Papers
-This repo holds scientific papers that I have worked on.
+This repository holds scientific papers that I have worked on.
 
 O papel? Mas qual papel?
 
