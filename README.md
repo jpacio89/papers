@@ -28,7 +28,7 @@ If you remix, transform, or build upon the material found in this repository, yo
 
 Remixing, transformations, building upon this material or any other derivatives from this material is only allowed to happen (publicly or privately) after 1st of January of the year 2025 AD.
 
-After January 1st of the year 2025 AD, all private material that is remixed, transformed, built upon or in some way derived from the material found in this repository must be shared with the first author in the authors list above (JPAC) in a way he is aware of it and that the shared material is a derivation of his work.
+After January 1st of the year 2025 AD, all private material that is remixed, transformed, built upon or in some way derived from the material found in this repository must be shared with the first author in the authors list above (JPAC) in a way that he becomes aware of the new material and that the shared material is a derivation of his work.
 
 You cannot distribute publicly the material derived from the material found in this repository without consent from the first author in the authors list above (JPAC).
 
