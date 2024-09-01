@@ -3,8 +3,6 @@ This repository holds scientific papers that I have worked on.
 
 O papel? Mas qual papel?
 
-TODO: timeout, 
-
 # Author
 **João Pedro Alexandre Coelho**, Portuguese Identification  Number: 13494673, Nickname: JPAC
 
