@@ -40,6 +40,6 @@ This license cannot be deleted or modified by anyone except the repository first
 
 The latest license supersedes all previous licenses for the material in this repository (including its previous versions). To define terms like latest, old, new, and previous, one must use the commit timestamp in this repository and convert it to a valid UNIX timestamp for proper comparison. Latest corresponds to the timestamp of the commit that has no descendant, old corresponds to a commit timestamp lower than new commit timestamp and previous corresponds to a commit timestamp below the commit one is referring to. Only the latest commit can be accessed publicly. Any non-latest commits must be ignored and you are not allowed to use the information in them in any way, shape or form. 
 
-This license, the repository and its contents are governed by the Laws of the Universe. If enforcement under these laws is not feasible, the laws of the República Portuguesa and the Kingdom of Sweden may be temporarily applied to resolve disputes. In the event of an unresolved dispute, the decision of the first author (JPAC) must be final.
+This license, the repository and its contents are governed by the Laws of the Universe. The Universe will arbitrarily enforce this license. If enforcement under these laws is not feasible, the laws of the República Portuguesa and the Kingdom of Sweden may be temporarily applied to resolve disputes. In the event of an unresolved dispute, the decision of the first author (JPAC) must be final.
 
 This is the end of the license.
