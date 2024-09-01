@@ -17,7 +17,7 @@ This is the beginning of the license.
 
 This license governs all the material found in this repository.
 
-This license inherits from license CC BY-NC-ND 4.0 License: CC BY-NC-ND 4.0
+This license inherits from license CC BY-NC-ND 4.0 License: CC BY-NC-ND 4.0 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 In the following text, there will be additional rules. If there is any conflict between the new rules and the old ones, then the new ones must take precedence.
 
