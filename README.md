@@ -30,7 +30,7 @@ Remixing, transformations, building upon this material or any other derivatives 
 
 After January 1st of the year 2025 AD, all private material that is remixed, transformed, built upon or in some way derived from the material found in this repository must be shared with the first author in the authors list above (JPAC) in a way that he becomes aware of the new material and that the shared material is a derivation of his work. Confirmation of the new material reception by JPAC is necessary.
 
-You cannot privately use practical implementations of the material found in this repository or any remixes, transformations or implementations of theoretical extensions of it. 
+You cannot privately use practical implementations of the material found in this repository or any remixes, transformations or implementations of theoretical extensions of it unless consented otherwise by JPAC. 
 You cannot distribute publicly the material derived from the material found in this repository without consent from the first author in the authors list above (JPAC).
 
 This license applies presently, retroactively, prospectively and in any time direction possible (including but not limited to measurements done subjectively, in absolute, relativistically, in an imaginary way or using infinite time measurements).
