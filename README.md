@@ -26,7 +26,7 @@ You, the reader and not writer of the material found in this repository, are not
 
 If you remix, transform, or build upon the material found in this repository, you must share the modified material with the authors as soon as possible. If you are coerced, persuaded or influenced in any way into not sharing the modified material with the authors, you must file a complaint in a way that all the authors become aware by stating "Reason A" in the complaint; you must state "Reason "B" if it is not possible to share the modified material with the authors after you have unsuccessfully tried for at least 30 days; you may also add any other statements to the complaint as long as ALL the complaint statements are TRUE.
 
-Remixing, transformations, building upon this material or any other derivatives from this material is only allowed to happen after 1st of January of the year 2025 AD.
+Remixing, transformations, building upon this material or any other derivatives from this material is only allowed to happen (publicly or privately) after 1st of January of the year 2025 AD.
 
 After January 1st of the year 2025 AD, all private material that is remixed, transformed, built upon or in some way derived from the material found in this repository must be shared with the first author in the authors list above (JPAC).
 
