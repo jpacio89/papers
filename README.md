@@ -5,8 +5,6 @@ O papel? Mas qual papel?
 
 TODO: timeout, retroactive date beginning, jurisdiction, license applies until non-enforced further notice from the first author, arrow of time, latest commit
 Further licenses from the first author replace this all all lincenses from previous versions;
-Good faith and good will
-In case a dispute cannot be settled within a reasonable amount of time, the settlement of the case shall be done by arbitration from the first author (João Coelho) 
 
 # Author
 **João Pedro Alexandre Coelho**, Portuguese Identification  Number: 13494673, Nickname: JPAC
@@ -41,7 +39,7 @@ This license applies presently, retroactively, prospectively and in any time dir
 
 This license cannot be deleted or modified by anyone except the repository first author.
 
-The latest license replaces the licenses in force for all the previous versions of the material in this repository.
+The latest license supersedes all previous licenses for the material in this repository (including its previous versions).
 
 This license is governed by the Laws of the Universe. In case it is not possible to enforce the license using the Laws of the Universe, the law of the country República Portuguesa and the law of the country Kingdom of Sweden can temporarily be used to settle disputes. In the event of an unresolved dispute, the decision of the first author (JPAC) must be final.
 
