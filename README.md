@@ -13,7 +13,7 @@ Further licenses from the first author replace this all all lincenses from previ
 
 This is the beginning of the license.
 
-This license governs all the material found in this repository.
+This license applies to all content within this repository.
 
 This license inherits from license CC BY-NC-ND 4.0 License: CC BY-NC-ND 4.0 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
